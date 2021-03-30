@@ -1,0 +1,4 @@
+Search for : (.*(\n|$)){2}
+
+alt+R - to toggle regular expression search
+alt+ENTER - to select all results
